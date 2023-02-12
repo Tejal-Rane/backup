@@ -1,0 +1,10 @@
+.container{
+   background-image: url(https://static.vecteezy.com/system/resources/previews/007/622/545/non_2x/banner-web-template-abstract-white-curved-overlapping-layer-design-on-clean-background-vector.jpg);
+   /* height: 91vh; */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   /* width: 200vw; */
+   max-width: 100%;
+   max-height: 100%;
+}

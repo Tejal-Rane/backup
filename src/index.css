@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
+
+*{
+    font-family: 'Mulish',sans-serif;
+    
+}
+.back{
+    background-size:cover !important;
+    background-position: center !important;
+    height: 91vh;
+    width: 100%;
+    min-height: 100%;
+    overflow-y: hidden;
+    background-attachment: fixed;
+}
+.row{
+    justify-content: center;
+    flex-direction: column;
+}
+.MuiDataGrid-root .MuiDataGrid-cell--textCenter {
+    text-align: center !important;
+}
+.container_1 {
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+  }
+  .place{
+    background-color:antiquewhite;
+  }
+  .view{
+    background-image: url(https://cdn.pixabay.com/photo/2013/08/25/14/39/wall-175684_960_720.jpg);
+  }

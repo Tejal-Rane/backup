@@ -1,0 +1,7 @@
+.container{
+
+   display:grid;
+   padding:10px;
+   grid-auto-flow:row;
+   grid-row-gap: 10px;
+}
